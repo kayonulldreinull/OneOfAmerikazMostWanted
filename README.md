@@ -3,7 +3,10 @@
 ❴ I'm learning.. ❵
 - 💻 ▸ Javascript
 - 💻 ▸ Python
-- 💻 ▸ C#
+- 💻 ▸ C# 
+
+
+❴ About me.. ❵
 
 - 🌎 ▸ Livin' in Brazil, South America
 - 📁 ▸ My current project.. https://neexbot.xyz
