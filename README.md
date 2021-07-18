@@ -1,12 +1,12 @@
  #### - ✌ Sup guys, My name is Kaio, but everyone call me "Every", im 18 years old and im join in this world, world of programming recently.
 
-❴ I'm learning.. ❵
+### ❴ I'm learning.. ❵
 - 💻 ▸ Javascript
 - 💻 ▸ Python
 - 💻 ▸ C# 
 
 
-❴ About me.. ❵
+### ❴ About me.. ❵
 
 - 🌎 ▸ Livin' in Brazil, South America
 - 📁 ▸ My current project.. https://neexbot.xyz
@@ -29,7 +29,7 @@
   <a href="https://instagram.com/yungguetto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-
+ ### - Discord
   
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/749786707561414747)](https://discord.com/users/749786707561414747)
