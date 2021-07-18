@@ -29,7 +29,7 @@
   <a href="https://www.youtube.com/channel/UCWy3C5dmQ1EjdqdU7OKYGJQ" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/yungguetto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-<img align="right" alt="Every" src="https://media1.tenor.com/images/4c2456088ed558d520844a764d0e8fc2/tenor.gif?itemid=20588096">
+<img align="right" alt="Every" src="https://media1.tenor.com/images/e3e026f151eba5ddf7a9e3354df75ba1/tenor.gif?itemid=15673841">
  
 
 ### - Discord
