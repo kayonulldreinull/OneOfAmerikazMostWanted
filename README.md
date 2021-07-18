@@ -19,7 +19,7 @@
    <img align="center" alt="Every-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg">
   <img align="center" alt="Every-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Every-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Every" src="https://media1.tenor.com/images/2e4d89625d6de7346cb188e4d768c54e/tenor.gif?itemid=19213132">
+  <img align="right" alt="Every" src="https://tenor.com/view/blood-walk-dj-quik-crip-gif-6192080">
   <img src="" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/749786707561414747)" style="max-width:100%;">
 </div>
   
