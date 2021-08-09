@@ -9,7 +9,7 @@
 ### ❴ About me.. ❵
 
 - 🌎 ▸ Livin' in Brazil, South America
-- 📁 ▸ My current project.. https://neexbot.xyz
+- 📁 ▸ My current project.. https://realslatt.ysl/
 
 
 <div>
