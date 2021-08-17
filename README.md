@@ -36,4 +36,5 @@
   
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852657346676392056)](https://discord.com/users/852657346676392056)
+<p align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/852657346676392056" />
