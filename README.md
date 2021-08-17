@@ -27,12 +27,11 @@
   **social networks:**
   
   <a href="https://www.youtube.com/channel/UCWy3C5dmQ1EjdqdU7OKYGJQ" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/yungguetto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/Rektbyewiz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <img align="right" alt="Every" src="https://media1.tenor.com/images/e3e026f151eba5ddf7a9e3354df75ba1/tenor.gif?itemid=15673841">
  
 
 ### - Discord
   
-<p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/852657346676392056" />
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852657346676392056)](https://discord.com/users/852657346676392056)
