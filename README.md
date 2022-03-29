@@ -36,4 +36,4 @@
   
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852657346676392056)](https://discord.com/users/852657346676392056)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852657346676392056)](https://discord.com/users/852657346676392056)
