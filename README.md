@@ -3,7 +3,9 @@
 ### ❴ I'm learning.. ❵
 - 💻 ▸ Javascript
 - 💻 ▸ Python
-- 💻 ▸ C# 
+- 💻 ▸ HTML5 
+- 💻 ▸ CSS3
+- 💻 ▸ C Language
 
 
 ### ❴ About me.. ❵
