@@ -1,11 +1,10 @@
- #### - ✌ Sup guys, My name is Kaio, but everyone call me "Every", im 17 years old and im join in this world, world of programming recently.
+ #### - ✌ Sup guys, My name is Kaio, I'm 20 years old and there's more about what I'm learning
 
 ### ❴ I'm learning.. ❵
 - 💻 ▸ Javascript
-- 💻 ▸ Python
 - 💻 ▸ HTML5 
 - 💻 ▸ CSS3
-- 💻 ▸ C Language
+- 💻 ▸ ReactJS
 
 
 ### ❴ About my projects.. ❵
